@@ -32,5 +32,4 @@ func main() {
 		log.Fatalf("Error while reading from input file: %v", err)
 	}
 	fmt.Println(sum)
-
 }
